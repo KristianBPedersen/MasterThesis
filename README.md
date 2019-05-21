@@ -1,2 +1,2 @@
 # MasterThesis
-Contains the code for my master thesis.
+This repository contains the code for my master thesis.
