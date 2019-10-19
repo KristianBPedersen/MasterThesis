@@ -14,3 +14,5 @@ Languages:
   C#, Python, Smalltalk, JavaScript, Go, C++ and Java
 Patterns:
   Factory, Observer
+  
+Note that the code is coded to be easily comparable between languages (for more information see Section 3.5 of the thesis), therefore it breaks some conventions regarding clean code,
